@@ -1,16 +1,109 @@
 h1 {
-    color:purple; font-family: arial; text-align: center;
-}
-#p1 {
-    color:purple; text-align: center;
-}
-
-.kittens {
-    font-size: 14px; font-family: arial;
-}
-img {height: 200px;
+    color: darkslategray;
+    font-family: 'K2D';
+    text-align:center;
+    font-size:50pt;
 }
 
-#p3 {
-    font-style: arial;
+h2 {
+    color: darkslategray;
+    font-family: 'K2D';
+    text-align:center;
+    font-size:35pt;
+}
+
+H3 {
+    color: darkslategray;
+    font-family: 'K2D';
+    text-align:left;
+    font-size:20pt;
+}
+
+H4 {
+    color: darkslategray;
+    font-family: 'K2D';
+    text-align:left;
+    font-size:20pt;
+    padding-left: 15px;
+}
+
+
+.pageheader {
+    color: darkslategray;
+    text-align: center;
+    font-family: 'K2D';
+}
+
+.navbar {
+    font-family: 'K2D';
+    font-size: 14pt;
+}
+
+.jumbotron{
+    background-image: url(homepage.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    min-height: 480px;
+}
+
+.lead{
+    color: white;
+    font-size:35pt;
+    font-family: 'K2D';
+}
+
+
+.bodytext{
+    font-size: 16pt;
+    color: darkslategray;
+    text-align:center;
+    font-family: 'K2D';
+    padding: 30px;
+}
+
+.listtext{
+    font-size: 3vmin;
+    color: darkslategray;
+    text-align:left;
+    font-family: 'K2D';
+    padding: 14px;
+}
+
+.headshot {
+    max-width: 100%;
+    height:auto;
+}
+
+.smallertext{
+    font-size: 2.8vmin;
+    color: darkslategray;
+    text-align:left;
+    font-family: 'K2D';
+    padding: 5px;
+}
+
+.endtext{
+    font-size: 8pt;
+    color: darkslategray;
+    text-align:left;
+    font-family: 'K2D';
+    padding-left:7px;
+} 
+
+.card-title{
+    font-size: 13pt;
+    color: darkslategray;
+    text-align:center;
+    font-family: 'K2D';
+}
+.card-text{
+    font-size: 11pt;
+    color: darkslategray;
+    text-align:left;
+    font-family: 'K2D';
+}
+
+li{
+padding-bottom: 15px;
 }
